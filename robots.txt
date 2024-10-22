@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://omermain.github.io/omermain.txt.gz
+Sitemap: https://omermain.github.io/app/omermain.txt.gz
+Sitemap: https://omermain.github.io/assets/omermain.txt.gz
+Sitemap: https://omermain.github.io/css/omermain.txt.gz
+Sitemap: https://omermain.github.io/includes/omermain.txt.gz
+Sitemap: https://omermain.github.io/item/omermain.txt.gz
+Sitemap: https://omermain.github.io/src/omermain.txt.gz
